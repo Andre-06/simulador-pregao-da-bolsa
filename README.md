@@ -1,4 +1,7 @@
-## Projeto Simulador de Pregão da Bolsa de Valores
+## Projeto Simulador de Pregão da Bolsa de Valores | Segunda entrega
+
+### Entrega final: [Simulador Pregão da B3](https://github.com/team-pregao/pregao-bolsa-de-valores)
+
 
 <h2>
   Colaboradores
